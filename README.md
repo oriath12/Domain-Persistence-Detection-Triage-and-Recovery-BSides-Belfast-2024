@@ -1,5 +1,5 @@
 # Domain-Persistence-Detection-Triage-and-Recovery-SO-CON-2024
-Resources Links for the Research Based on Josh Prager and Nico Shyne's
+Resources Links for the Research Based on Josh Prager and Nico Shyne's Contributions
 
 ## Links
 - https://posts.specterops.io/domain-of-thrones-part-i-c183ee4bf379
